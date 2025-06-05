@@ -1,3 +1,4 @@
+import os
 import cv2
 import time
 import json
@@ -5,10 +6,13 @@ from detectors.face_detector import FaceDetector
 from detectors.pose_detector import PoseDetector
 from detectors.object_detector import ObjectDetector
 from detectors.emotion_detector import EmotionDetector
+from datetime import datetime
+from utils.generate import predict_cheating
 from utils.visualizer import Visualizer
 
 class InterviewAnalyzer:
-    def __init__(self):
+    def __init__(self, user_name="default"):
+        self.user_name = user_name
         self.face_detector = FaceDetector()
         self.pose_detector = PoseDetector()
         self.object_detector = ObjectDetector()
@@ -19,7 +23,7 @@ class InterviewAnalyzer:
         
     def run(self):
         cap = cv2.VideoCapture(0)
-        print("Starting video capture... Press 'q' to quit.")
+        print(f"Starting video capture for {self.user_name}... Press 'q' to quit.")
         
         while cap.isOpened():
             ret, frame = cap.read()
@@ -87,11 +91,15 @@ class InterviewAnalyzer:
             }
         })
         
-    def _save_data(self):
-        with open('data/outputs/interview_tracker_with_yolo_emotions.json', 'w') as f:
-            json.dump(self.frames_data, f, indent=4)
-        print("Data saved to interview_tracker_with_yolo_emotions.json")
 
-if __name__ == "__main__":
-    analyzer = InterviewAnalyzer()
-    analyzer.run()
+    def _save_data(self):
+        date_str = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+        user_dir = f"data/outputs/{self.user_name}"
+        os.makedirs(user_dir, exist_ok=True)
+
+        filename = f"{user_dir}/{date_str}.json"
+        with open(filename, 'w') as f:
+            json.dump(self.frames_data, f, indent=4)
+        
+        predict_cheating(user_dir,date_str, self.user_name)
+

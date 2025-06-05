@@ -1,0 +1,5323 @@
+[
+    {
+        "timestamp": 4.67702317237854,
+        "eye_tracking": {
+            "direction": "unknown",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 0,
+            "pitch": 0,
+            "roll": 0
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Unknown"
+        },
+        "detections": {
+            "yolo": []
+        }
+    },
+    {
+        "timestamp": 6.640069484710693,
+        "eye_tracking": {
+            "direction": "unknown",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 0,
+            "pitch": 0,
+            "roll": 0
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Unknown"
+        },
+        "detections": {
+            "yolo": []
+        }
+    },
+    {
+        "timestamp": 6.775779724121094,
+        "eye_tracking": {
+            "direction": "unknown",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 0,
+            "pitch": 0,
+            "roll": 0
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Unknown"
+        },
+        "detections": {
+            "yolo": []
+        }
+    },
+    {
+        "timestamp": 6.916777849197388,
+        "eye_tracking": {
+            "direction": "unknown",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 0,
+            "pitch": 0,
+            "roll": 0
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Unknown"
+        },
+        "detections": {
+            "yolo": []
+        }
+    },
+    {
+        "timestamp": 7.047539710998535,
+        "eye_tracking": {
+            "direction": "unknown",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 0,
+            "pitch": 0,
+            "roll": 0
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Unknown"
+        },
+        "detections": {
+            "yolo": []
+        }
+    },
+    {
+        "timestamp": 7.920333385467529,
+        "eye_tracking": {
+            "direction": "left",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 166.36094794762795,
+            "pitch": 79.99202019855866,
+            "roll": -32.005383208083494
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "cat",
+                    "confidence": 0.26217103004455566,
+                    "box": [
+                        3,
+                        216,
+                        360,
+                        479
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 8.288555383682251,
+        "eye_tracking": {
+            "direction": "left",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 167.0673916032605,
+            "pitch": 83.36748538486154,
+            "roll": -32.49864594447964
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.2611865699291229,
+                    "box": [
+                        52,
+                        215,
+                        357,
+                        478
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 8.514138221740723,
+        "eye_tracking": {
+            "direction": "left",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 166.36094794762795,
+            "pitch": 78.17851165939275,
+            "roll": -32.30733445488212
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "cat",
+                    "confidence": 0.33588698506355286,
+                    "box": [
+                        56,
+                        214,
+                        363,
+                        479
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 8.770284652709961,
+        "eye_tracking": {
+            "direction": "left",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 166.06516488549866,
+            "pitch": 81.02737338510362,
+            "roll": -35.53767779197438
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": []
+        }
+    },
+    {
+        "timestamp": 9.079978704452515,
+        "eye_tracking": {
+            "direction": "left",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 167.69946112100192,
+            "pitch": 81.7872198107141,
+            "roll": -36.1041430303367
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": []
+        }
+    },
+    {
+        "timestamp": 9.234511613845825,
+        "eye_tracking": {
+            "direction": "unknown",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 0,
+            "pitch": 0,
+            "roll": 0
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Unknown"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "cat",
+                    "confidence": 0.27013736963272095,
+                    "box": [
+                        162,
+                        167,
+                        422,
+                        477
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 9.494165897369385,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": -170.82379665962387,
+            "pitch": 98.82974466790907,
+            "roll": -38.390056106370025
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Happy"
+        },
+        "detections": {
+            "yolo": []
+        }
+    },
+    {
+        "timestamp": 9.830696821212769,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": -171.15818543980834,
+            "pitch": 98.82037955202107,
+            "roll": -40.67112493280958
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Happy"
+        },
+        "detections": {
+            "yolo": []
+        }
+    },
+    {
+        "timestamp": 10.057064533233643,
+        "eye_tracking": {
+            "direction": "unknown",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 0,
+            "pitch": 0,
+            "roll": 0
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Unknown"
+        },
+        "detections": {
+            "yolo": []
+        }
+    },
+    {
+        "timestamp": 10.2878999710083,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": -177.38045120460532,
+            "pitch": 95.2374760668125,
+            "roll": -38.10757687751486
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Happy"
+        },
+        "detections": {
+            "yolo": []
+        }
+    },
+    {
+        "timestamp": 10.623910665512085,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": -177.29208251413382,
+            "pitch": 97.06260267041577,
+            "roll": -37.362223053976365
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.389110803604126,
+                    "box": [
+                        0,
+                        1,
+                        606,
+                        478
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 10.954840660095215,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": -178.02506598911802,
+            "pitch": 95.9061411137705,
+            "roll": -38.65980825409009
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Happy"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "cat",
+                    "confidence": 0.2993973195552826,
+                    "box": [
+                        5,
+                        11,
+                        463,
+                        479
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 11.267665147781372,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": -179.59933674420785,
+            "pitch": 93.54476645559488,
+            "roll": -38.31613589196588
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "dog",
+                    "confidence": 0.28553324937820435,
+                    "box": [
+                        149,
+                        26,
+                        452,
+                        410
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 11.595452785491943,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": -179.59075139196506,
+            "pitch": 95.71059313749964,
+            "roll": -38.15722658736906
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.40672990679740906,
+                    "box": [
+                        1,
+                        26,
+                        582,
+                        479
+                    ]
+                },
+                {
+                    "label": "person",
+                    "confidence": 0.2798904776573181,
+                    "box": [
+                        52,
+                        24,
+                        455,
+                        476
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 11.90339469909668,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": -179.169684513742,
+            "pitch": 95.71059313749964,
+            "roll": -38.558399900664966
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.39331042766571045,
+                    "box": [
+                        0,
+                        26,
+                        571,
+                        478
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 12.251441478729248,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": -179.169684513742,
+            "pitch": 94.67741785888175,
+            "roll": -38.558399900664966
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.3028509020805359,
+                    "box": [
+                        1,
+                        35,
+                        609,
+                        478
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 12.447362661361694,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": -179.59365376669098,
+            "pitch": 94.19766835716094,
+            "roll": -37.705803691459145
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.38738831877708435,
+                    "box": [
+                        11,
+                        26,
+                        451,
+                        477
+                    ]
+                },
+                {
+                    "label": "dog",
+                    "confidence": 0.2709234654903412,
+                    "box": [
+                        30,
+                        38,
+                        445,
+                        474
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 12.64642071723938,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 180.0,
+            "pitch": 94.19766835716094,
+            "roll": -37.90330583342464
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.47972458600997925,
+                    "box": [
+                        0,
+                        32,
+                        501,
+                        477
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 12.862341403961182,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 180.0,
+            "pitch": 94.23639479905884,
+            "roll": -37.64762064010765
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": []
+        }
+    },
+    {
+        "timestamp": 13.059695482254028,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 180.0,
+            "pitch": 94.76364169072617,
+            "roll": -37.64762064010765
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": []
+        }
+    },
+    {
+        "timestamp": 13.255527973175049,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 179.58780725859768,
+            "pitch": 95.76263288659845,
+            "roll": -38.10257244224825
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": []
+        }
+    },
+    {
+        "timestamp": 13.457461595535278,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 179.18154453831139,
+            "pitch": 94.27584111262894,
+            "roll": -37.390162842448056
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.3106192946434021,
+                    "box": [
+                        2,
+                        36,
+                        518,
+                        479
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 13.65649151802063,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 179.18154453831139,
+            "pitch": 93.67449952082966,
+            "roll": -37.90330583342464
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": []
+        }
+    },
+    {
+        "timestamp": 13.858651399612427,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 177.59739053101396,
+            "pitch": 90.5305013166738,
+            "roll": -37.061735476454515
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.2943781614303589,
+                    "box": [
+                        133,
+                        43,
+                        441,
+                        474
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 14.089282512664795,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 175.57044070102236,
+            "pitch": 86.32550047917034,
+            "roll": -37.51004731536756
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.2852605879306793,
+                    "box": [
+                        64,
+                        40,
+                        433,
+                        477
+                    ]
+                },
+                {
+                    "label": "person",
+                    "confidence": 0.28386446833610535,
+                    "box": [
+                        13,
+                        49,
+                        634,
+                        479
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 14.397986650466919,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 174.40844224424282,
+            "pitch": 83.6598082540901,
+            "roll": -37.061735476454515
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.3810657560825348,
+                    "box": [
+                        86,
+                        51,
+                        431,
+                        477
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 14.595041990280151,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 173.57125225117014,
+            "pitch": 84.23736711340156,
+            "roll": -37.51004731536756
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.3526729345321655,
+                    "box": [
+                        25,
+                        42,
+                        632,
+                        479
+                    ]
+                },
+                {
+                    "label": "person",
+                    "confidence": 0.2899031937122345,
+                    "box": [
+                        77,
+                        47,
+                        425,
+                        476
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 14.85300064086914,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 173.61583606048754,
+            "pitch": 83.8844964337146,
+            "roll": -38.06864320168417
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.3679940104484558,
+                    "box": [
+                        61,
+                        52,
+                        424,
+                        473
+                    ]
+                },
+                {
+                    "label": "person",
+                    "confidence": 0.3674009144306183,
+                    "box": [
+                        23,
+                        54,
+                        635,
+                        479
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 15.049417972564697,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 173.22043205485005,
+            "pitch": 83.37922391768502,
+            "roll": -38.06864320168417
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.25140246748924255,
+                    "box": [
+                        14,
+                        51,
+                        635,
+                        479
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 15.245619297027588,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 173.26707867314042,
+            "pitch": 83.8298249049704,
+            "roll": -37.62623363866979
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.2670533359050751,
+                    "box": [
+                        18,
+                        45,
+                        636,
+                        479
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 15.442499876022339,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 174.05313694602648,
+            "pitch": 84.94275146744086,
+            "roll": -38.122065021047874
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.4098556339740753,
+                    "box": [
+                        8,
+                        47,
+                        628,
+                        479
+                    ]
+                },
+                {
+                    "label": "person",
+                    "confidence": 0.30626678466796875,
+                    "box": [
+                        3,
+                        50,
+                        442,
+                        477
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 15.70292043685913,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 173.70318128101562,
+            "pitch": 83.8844964337146,
+            "roll": -37.68299276767522
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.2741927206516266,
+                    "box": [
+                        8,
+                        52,
+                        419,
+                        477
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 16.042508125305176,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 172.8749836510982,
+            "pitch": 83.99099404250548,
+            "roll": -38.36748538486154
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.545738935470581,
+                    "box": [
+                        32,
+                        53,
+                        634,
+                        479
+                    ]
+                },
+                {
+                    "label": "person",
+                    "confidence": 0.28999924659729004,
+                    "box": [
+                        13,
+                        52,
+                        423,
+                        477
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 16.370234489440918,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 172.8749836510982,
+            "pitch": 84.8521151758637,
+            "roll": -37.62623363866979
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.39642900228500366,
+                    "box": [
+                        2,
+                        50,
+                        423,
+                        476
+                    ]
+                },
+                {
+                    "label": "person",
+                    "confidence": 0.3640357255935669,
+                    "box": [
+                        22,
+                        49,
+                        568,
+                        479
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 16.637394189834595,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 174.0118516242245,
+            "pitch": 84.34051815983753,
+            "roll": -37.81946450227985
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.32162556052207947,
+                    "box": [
+                        97,
+                        53,
+                        424,
+                        475
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 16.83410906791687,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 173.61583606048754,
+            "pitch": 85.32258214111825,
+            "roll": -37.568592028827496
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.41267839074134827,
+                    "box": [
+                        104,
+                        55,
+                        426,
+                        477
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 17.03438401222229,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 174.13402885827347,
+            "pitch": 84.8521151758637,
+            "roll": -37.244782892659444
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.3590492308139801,
+                    "box": [
+                        67,
+                        51,
+                        424,
+                        474
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 17.233970403671265,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 174.0938588862295,
+            "pitch": 84.8055710922652,
+            "roll": -37.184706453233126
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.45141586661338806,
+                    "box": [
+                        114,
+                        53,
+                        426,
+                        478
+                    ]
+                },
+                {
+                    "label": "person",
+                    "confidence": 0.2581896185874939,
+                    "box": [
+                        16,
+                        52,
+                        633,
+                        479
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 17.495698928833008,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 174.05313694602648,
+            "pitch": 84.34051815983753,
+            "roll": -37.62623363866979
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.4089203178882599,
+                    "box": [
+                        1,
+                        53,
+                        420,
+                        478
+                    ]
+                },
+                {
+                    "label": "person",
+                    "confidence": 0.372583270072937,
+                    "box": [
+                        5,
+                        48,
+                        623,
+                        478
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 17.693766117095947,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 173.61583606048754,
+            "pitch": 84.34051815983753,
+            "roll": -37.81946450227985
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.5111952424049377,
+                    "box": [
+                        5,
+                        55,
+                        419,
+                        477
+                    ]
+                },
+                {
+                    "label": "person",
+                    "confidence": 0.37005430459976196,
+                    "box": [
+                        20,
+                        51,
+                        637,
+                        479
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 17.892598628997803,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 174.0938588862295,
+            "pitch": 85.32258214111825,
+            "roll": -37.184706453233126
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.658382773399353,
+                    "box": [
+                        1,
+                        53,
+                        423,
+                        478
+                    ]
+                },
+                {
+                    "label": "person",
+                    "confidence": 0.43129879236221313,
+                    "box": [
+                        18,
+                        55,
+                        635,
+                        479
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 18.087761402130127,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 172.9236218223632,
+            "pitch": 83.77417093557423,
+            "roll": -37.184706453233126
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.5114288926124573,
+                    "box": [
+                        46,
+                        56,
+                        487,
+                        479
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 18.341803789138794,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 173.26707867314042,
+            "pitch": 84.44005273669048,
+            "roll": -38.122065021047874
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "dog",
+                    "confidence": 0.4139050245285034,
+                    "box": [
+                        114,
+                        56,
+                        420,
+                        465
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 18.5578351020813,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 173.6598082540901,
+            "pitch": 84.75818005302044,
+            "roll": -37.123697888430314
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "dog",
+                    "confidence": 0.3732110857963562,
+                    "box": [
+                        90,
+                        57,
+                        419,
+                        470
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 18.753851890563965,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 172.8256757635177,
+            "pitch": 83.6598082540901,
+            "roll": -37.061735476454515
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.5318223237991333,
+                    "box": [
+                        11,
+                        54,
+                        635,
+                        479
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 19.022915840148926,
+        "eye_tracking": {
+            "direction": "up",
+            "blink_detected": true
+        },
+        "head_tracking": {
+            "yaw": 172.9236218223632,
+            "pitch": 83.77417093557423,
+            "roll": -37.184706453233126
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": []
+        }
+    },
+    {
+        "timestamp": 19.34804940223694,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 173.61583606048754,
+            "pitch": 84.8055710922652,
+            "roll": -37.568592028827496
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.4395484924316406,
+                    "box": [
+                        26,
+                        55,
+                        418,
+                        476
+                    ]
+                },
+                {
+                    "label": "person",
+                    "confidence": 0.38446924090385437,
+                    "box": [
+                        13,
+                        50,
+                        595,
+                        479
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 19.552006006240845,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 172.9236218223632,
+            "pitch": 83.8298249049704,
+            "roll": -37.43467893156771
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": []
+        }
+    },
+    {
+        "timestamp": 19.86994957923889,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 173.96999119171855,
+            "pitch": 84.8055710922652,
+            "roll": -37.763077974032
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "dog",
+                    "confidence": 0.4236315190792084,
+                    "box": [
+                        105,
+                        57,
+                        419,
+                        468
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 20.20371723175049,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 173.70318128101562,
+            "pitch": 84.8055710922652,
+            "roll": -37.184706453233126
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.3154067397117615,
+                    "box": [
+                        11,
+                        56,
+                        417,
+                        476
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 20.52092146873474,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 173.4032617021058,
+            "pitch": 84.8055710922652,
+            "roll": -36.807483967358
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.2717106342315674,
+                    "box": [
+                        42,
+                        51,
+                        634,
+                        479
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 20.778518438339233,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 174.13402885827347,
+            "pitch": 84.8521151758637,
+            "roll": -37.244782892659444
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "dog",
+                    "confidence": 0.30597984790802,
+                    "box": [
+                        116,
+                        58,
+                        421,
+                        476
+                    ]
+                },
+                {
+                    "label": "person",
+                    "confidence": 0.27991342544555664,
+                    "box": [
+                        116,
+                        56,
+                        423,
+                        477
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 21.093717098236084,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 173.57125225117014,
+            "pitch": 83.77417093557423,
+            "roll": -37.763077974032
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.4946243166923523,
+                    "box": [
+                        0,
+                        55,
+                        428,
+                        477
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 21.349740743637085,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 173.61583606048754,
+            "pitch": 84.8055710922652,
+            "roll": -37.568592028827496
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "dog",
+                    "confidence": 0.35812994837760925,
+                    "box": [
+                        106,
+                        56,
+                        420,
+                        471
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 21.66737651824951,
+        "eye_tracking": {
+            "direction": "up",
+            "blink_detected": true
+        },
+        "head_tracking": {
+            "yaw": 173.06565109873046,
+            "pitch": 84.75818005302044,
+            "roll": -36.37114393697508
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Sad"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.38839390873908997,
+                    "box": [
+                        110,
+                        54,
+                        417,
+                        476
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 21.923741340637207,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 173.1731376615263,
+            "pitch": 83.8844964337146,
+            "roll": -38.26398878588065
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.300763338804245,
+                    "box": [
+                        80,
+                        56,
+                        446,
+                        479
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 22.226224899291992,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 173.22043205485005,
+            "pitch": 84.28940686250037,
+            "roll": -37.568592028827496
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.5337872505187988,
+                    "box": [
+                        18,
+                        58,
+                        530,
+                        478
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 22.551065921783447,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 173.61583606048754,
+            "pitch": 84.8055710922652,
+            "roll": -37.568592028827496
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": []
+        }
+    },
+    {
+        "timestamp": 22.854318380355835,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 173.26707867314042,
+            "pitch": 85.23635830927383,
+            "roll": -36.86989764584402
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.4554309844970703,
+                    "box": [
+                        21,
+                        53,
+                        635,
+                        479
+                    ]
+                },
+                {
+                    "label": "person",
+                    "confidence": 0.3118331730365753,
+                    "box": [
+                        2,
+                        57,
+                        423,
+                        476
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 23.117706537246704,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 173.22043205485005,
+            "pitch": 84.8055710922652,
+            "roll": -37.568592028827496
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.450129896402359,
+                    "box": [
+                        22,
+                        56,
+                        517,
+                        479
+                    ]
+                },
+                {
+                    "label": "person",
+                    "confidence": 0.31626561284065247,
+                    "box": [
+                        115,
+                        58,
+                        418,
+                        476
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 23.416049480438232,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 172.8256757635177,
+            "pitch": 84.28940686250037,
+            "roll": -37.568592028827496
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": []
+        }
+    },
+    {
+        "timestamp": 23.67504048347473,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 173.70318128101562,
+            "pitch": 84.70991879462873,
+            "roll": -36.67975748263054
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "dog",
+                    "confidence": 0.28440192341804504,
+                    "box": [
+                        50,
+                        58,
+                        493,
+                        478
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 23.975810289382935,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 172.8749836510982,
+            "pitch": 83.71750791183861,
+            "roll": -37.123697888430314
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.4785235524177551,
+                    "box": [
+                        20,
+                        53,
+                        620,
+                        479
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 24.23616600036621,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 173.22043205485005,
+            "pitch": 84.70991879462873,
+            "roll": -37.061735476454515
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": []
+        }
+    },
+    {
+        "timestamp": 24.486136436462402,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 173.26707867314042,
+            "pitch": 83.71750791183861,
+            "roll": -37.123697888430314
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "dog",
+                    "confidence": 0.27944836020469666,
+                    "box": [
+                        107,
+                        59,
+                        415,
+                        463
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 24.741379261016846,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 172.8749836510982,
+            "pitch": 84.34051815983753,
+            "roll": -37.62623363866979
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": []
+        }
+    },
+    {
+        "timestamp": 25.03592610359192,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 173.92754359279232,
+            "pitch": 85.87770218821636,
+            "roll": -38.21102542556121
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.46944430470466614,
+                    "box": [
+                        4,
+                        57,
+                        421,
+                        477
+                    ]
+                },
+                {
+                    "label": "person",
+                    "confidence": 0.3075645864009857,
+                    "box": [
+                        21,
+                        55,
+                        632,
+                        479
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 25.357102870941162,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 173.31309067381764,
+            "pitch": 84.75818005302044,
+            "roll": -36.9330682702069
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "dog",
+                    "confidence": 0.3748422861099243,
+                    "box": [
+                        118,
+                        60,
+                        414,
+                        477
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 25.648783922195435,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 173.26707867314042,
+            "pitch": 83.25994390205305,
+            "roll": -37.375807495548166
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.4024753272533417,
+                    "box": [
+                        13,
+                        58,
+                        498,
+                        479
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 25.934123754501343,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 173.6598082540901,
+            "pitch": 84.23736711340156,
+            "roll": -37.123697888430314
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.4321317970752716,
+                    "box": [
+                        15,
+                        59,
+                        476,
+                        479
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 26.26272177696228,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 173.1731376615263,
+            "pitch": 84.23736711340156,
+            "roll": -37.51004731536756
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.30116772651672363,
+                    "box": [
+                        84,
+                        60,
+                        417,
+                        477
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 26.524863243103027,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 173.96999119171855,
+            "pitch": 84.28940686250037,
+            "roll": -37.763077974032
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.3998101055622101,
+                    "box": [
+                        113,
+                        59,
+                        424,
+                        478
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 26.84273409843445,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 174.0938588862295,
+            "pitch": 85.27986306895644,
+            "roll": -36.9330682702069
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": []
+        }
+    },
+    {
+        "timestamp": 27.093127489089966,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 173.6598082540901,
+            "pitch": 84.70991879462873,
+            "roll": -36.86989764584402
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.3721277713775635,
+                    "box": [
+                        2,
+                        56,
+                        425,
+                        478
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 27.344040393829346,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 173.26707867314042,
+            "pitch": 85.80233164283908,
+            "roll": -37.123697888430314
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "dog",
+                    "confidence": 0.3495650291442871,
+                    "box": [
+                        7,
+                        59,
+                        416,
+                        475
+                    ]
+                },
+                {
+                    "label": "person",
+                    "confidence": 0.3077225685119629,
+                    "box": [
+                        40,
+                        55,
+                        420,
+                        477
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 27.631516933441162,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 173.31309067381764,
+            "pitch": 85.27986306895644,
+            "roll": -36.9330682702069
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "dog",
+                    "confidence": 0.32046449184417725,
+                    "box": [
+                        35,
+                        60,
+                        415,
+                        474
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 27.890339612960815,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 173.31309067381764,
+            "pitch": 83.6598082540901,
+            "roll": -36.67975748263054
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": []
+        }
+    },
+    {
+        "timestamp": 28.151005029678345,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 173.26707867314042,
+            "pitch": 84.70991879462873,
+            "roll": -36.86989764584402
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.3899887502193451,
+                    "box": [
+                        119,
+                        56,
+                        425,
+                        477
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 28.458938598632812,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 172.5853697090253,
+            "pitch": 84.18437347050876,
+            "roll": -36.49129668372969
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.3337543308734894,
+                    "box": [
+                        71,
+                        61,
+                        462,
+                        478
+                    ]
+                },
+                {
+                    "label": "person",
+                    "confidence": 0.2899377942085266,
+                    "box": [
+                        39,
+                        59,
+                        619,
+                        478
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 28.745311498641968,
+        "eye_tracking": {
+            "direction": "up",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 171.9241036651617,
+            "pitch": 83.19868517601843,
+            "roll": -36.37114393697508
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": []
+        }
+    },
+    {
+        "timestamp": 29.085705280303955,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 160.31968691030963,
+            "pitch": 70.10456866523435,
+            "roll": -37.467398599052636
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Sad"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.3574191927909851,
+                    "box": [
+                        14,
+                        63,
+                        638,
+                        478
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 29.39912700653076,
+        "eye_tracking": {
+            "direction": "left",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 157.16634582208246,
+            "pitch": 65.9848978358822,
+            "roll": -37.21298204536755
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Angry"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "dog",
+                    "confidence": 0.25452205538749695,
+                    "box": [
+                        3,
+                        74,
+                        387,
+                        468
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 29.647703886032104,
+        "eye_tracking": {
+            "direction": "left",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 157.01128319791937,
+            "pitch": 67.81598665473003,
+            "roll": -37.96502408956886
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Sad"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.3167004883289337,
+                    "box": [
+                        0,
+                        64,
+                        395,
+                        475
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 29.904930114746094,
+        "eye_tracking": {
+            "direction": "left",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 157.75097634278765,
+            "pitch": 69.26129085247779,
+            "roll": -37.96502408956886
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Angry"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "dog",
+                    "confidence": 0.4343394637107849,
+                    "box": [
+                        0,
+                        70,
+                        394,
+                        471
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 30.19596529006958,
+        "eye_tracking": {
+            "direction": "left",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 157.83365417791757,
+            "pitch": 70.10456866523435,
+            "roll": -37.874983651098205
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.42037853598594666,
+                    "box": [
+                        0,
+                        62,
+                        630,
+                        478
+                    ]
+                },
+                {
+                    "label": "person",
+                    "confidence": 0.2792096734046936,
+                    "box": [
+                        1,
+                        65,
+                        398,
+                        476
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 30.534190893173218,
+        "eye_tracking": {
+            "direction": "left",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 158.565395870582,
+            "pitch": 68.96248897457819,
+            "roll": -37.609590790712296
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "dog",
+                    "confidence": 0.4501347243785858,
+                    "box": [
+                        0,
+                        71,
+                        385,
+                        454
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 30.78473210334778,
+        "eye_tracking": {
+            "direction": "left",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 157.68441142412922,
+            "pitch": 68.48411529050487,
+            "roll": -37.81573260757314
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "dog",
+                    "confidence": 0.2643008828163147,
+                    "box": [
+                        0,
+                        71,
+                        384,
+                        466
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 31.03642439842224,
+        "eye_tracking": {
+            "direction": "left",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 158.05130091647302,
+            "pitch": 69.07549825507883,
+            "roll": -37.27817419986903
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "dog",
+                    "confidence": 0.31097742915153503,
+                    "box": [
+                        9,
+                        70,
+                        385,
+                        465
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 31.35894012451172,
+        "eye_tracking": {
+            "direction": "left",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 158.93405434688128,
+            "pitch": 69.92847413546127,
+            "roll": -37.609590790712296
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Angry"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "dog",
+                    "confidence": 0.38210049271583557,
+                    "box": [
+                        8,
+                        70,
+                        628,
+                        478
+                    ]
+                },
+                {
+                    "label": "person",
+                    "confidence": 0.344625324010849,
+                    "box": [
+                        3,
+                        59,
+                        626,
+                        478
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 31.61489987373352,
+        "eye_tracking": {
+            "direction": "left",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 157.83365417791757,
+            "pitch": 70.10456866523435,
+            "roll": -37.874983651098205
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "dog",
+                    "confidence": 0.4750252664089203,
+                    "box": [
+                        74,
+                        73,
+                        387,
+                        460
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 31.872571229934692,
+        "eye_tracking": {
+            "direction": "left",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 158.19859051364818,
+            "pitch": 68.85390582059232,
+            "roll": -38.138477969087624
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.2516835629940033,
+                    "box": [
+                        0,
+                        67,
+                        407,
+                        477
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 32.1307487487793,
+        "eye_tracking": {
+            "direction": "left",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 162.06110613747325,
+            "pitch": 73.11320887605596,
+            "roll": -38.860317600076144
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Sad"
+        },
+        "detections": {
+            "yolo": []
+        }
+    },
+    {
+        "timestamp": 32.38815999031067,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 169.0705119978196,
+            "pitch": 78.00916502096075,
+            "roll": -37.929655179842406
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.27498915791511536,
+                    "box": [
+                        33,
+                        66,
+                        410,
+                        478
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 32.644463777542114,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": -177.99746686817312,
+            "pitch": 91.95806742923405,
+            "roll": -39.28940686250036
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": []
+        }
+    },
+    {
+        "timestamp": 32.89966106414795,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": -176.82016988013575,
+            "pitch": 95.05724853255913,
+            "roll": -38.122065021047874
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.26831531524658203,
+                    "box": [
+                        6,
+                        50,
+                        484,
+                        478
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 33.20677399635315,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": -176.39872188277656,
+            "pitch": 93.94518622903756,
+            "roll": -39.04857772112063
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.2781919240951538,
+                    "box": [
+                        1,
+                        52,
+                        469,
+                        477
+                    ]
+                },
+                {
+                    "label": "dog",
+                    "confidence": 0.2778528332710266,
+                    "box": [
+                        11,
+                        52,
+                        446,
+                        477
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 33.54390072822571,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": -177.59739053101396,
+            "pitch": 92.53355888839458,
+            "roll": -38.31613589196588
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": []
+        }
+    },
+    {
+        "timestamp": 33.87646985054016,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": -177.21697924614338,
+            "pitch": 93.54476645559488,
+            "roll": -38.122065021047874
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "dog",
+                    "confidence": 0.2613871991634369,
+                    "box": [
+                        146,
+                        53,
+                        441,
+                        469
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 34.1931517124176,
+        "eye_tracking": {
+            "direction": "up",
+            "blink_detected": true
+        },
+        "head_tracking": {
+            "yaw": -177.27368900609375,
+            "pitch": 93.57633437499736,
+            "roll": -37.30394827798343
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.33530890941619873,
+                    "box": [
+                        146,
+                        51,
+                        451,
+                        477
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 34.52568173408508,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": -177.59739053101396,
+            "pitch": 93.54476645559488,
+            "roll": -38.31613589196588
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.38898882269859314,
+                    "box": [
+                        2,
+                        50,
+                        507,
+                        478
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 34.78742504119873,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": -177.99746686817312,
+            "pitch": 93.57633437499736,
+            "roll": -38.06864320168417
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.31867149472236633,
+                    "box": [
+                        34,
+                        46,
+                        629,
+                        479
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 35.04694175720215,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": -177.1975484801332,
+            "pitch": 94.12229781178364,
+            "roll": -37.81946450227985
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.2581818997859955,
+                    "box": [
+                        13,
+                        52,
+                        443,
+                        477
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 35.3030321598053,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": -177.17784470018822,
+            "pitch": 94.04958170327139,
+            "roll": -38.51188488348946
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "dog",
+                    "confidence": 0.40673741698265076,
+                    "box": [
+                        3,
+                        52,
+                        443,
+                        477
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 35.56290793418884,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": -177.6140559696112,
+            "pitch": 93.54476645559488,
+            "roll": -38.122065021047874
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "dog",
+                    "confidence": 0.28688347339630127,
+                    "box": [
+                        127,
+                        52,
+                        444,
+                        475
+                    ]
+                },
+                {
+                    "label": "person",
+                    "confidence": 0.2735219895839691,
+                    "box": [
+                        5,
+                        48,
+                        493,
+                        478
+                    ]
+                },
+                {
+                    "label": "person",
+                    "confidence": 0.2609207332134247,
+                    "box": [
+                        103,
+                        49,
+                        444,
+                        477
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 35.82081389427185,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": -178.01136214352593,
+            "pitch": 93.03939956892692,
+            "roll": -38.122065021047874
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.4458721876144409,
+                    "box": [
+                        11,
+                        50,
+                        444,
+                        477
+                    ]
+                },
+                {
+                    "label": "person",
+                    "confidence": 0.3442612588405609,
+                    "box": [
+                        27,
+                        54,
+                        634,
+                        478
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 36.08353304862976,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": -177.21697924614338,
+            "pitch": 94.04958170327139,
+            "roll": -38.122065021047874
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "dog",
+                    "confidence": 0.3845232129096985,
+                    "box": [
+                        3,
+                        51,
+                        441,
+                        477
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 36.33817172050476,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": -177.59739053101396,
+            "pitch": 93.60846885256635,
+            "roll": -37.81946450227985
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.27441179752349854,
+                    "box": [
+                        29,
+                        50,
+                        634,
+                        479
+                    ]
+                },
+                {
+                    "label": "person",
+                    "confidence": 0.2578716278076172,
+                    "box": [
+                        19,
+                        50,
+                        448,
+                        477
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 36.60049486160278,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": -177.59739053101396,
+            "pitch": 94.12229781178364,
+            "roll": -37.81946450227985
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.41862237453460693,
+                    "box": [
+                        1,
+                        51,
+                        447,
+                        476
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 36.94390153884888,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": -178.02506598911802,
+            "pitch": 94.12229781178364,
+            "roll": -37.43467893156771
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": []
+        }
+    },
+    {
+        "timestamp": 37.196258783340454,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": -177.63049193574471,
+            "pitch": 93.03939956892692,
+            "roll": -37.929655179842406
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.37634432315826416,
+                    "box": [
+                        2,
+                        50,
+                        487,
+                        477
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 37.44800639152527,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": -178.4198275272,
+            "pitch": 93.57633437499736,
+            "roll": -37.68299276767522
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.30593961477279663,
+                    "box": [
+                        51,
+                        50,
+                        635,
+                        478
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 37.699368715286255,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": -178.02506598911802,
+            "pitch": 93.03939956892692,
+            "roll": -37.929655179842406
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.2570911645889282,
+                    "box": [
+                        2,
+                        54,
+                        573,
+                        478
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 37.967629194259644,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": -178.01136214352593,
+            "pitch": 93.0664855011259,
+            "roll": -37.874983651098205
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.38061317801475525,
+                    "box": [
+                        22,
+                        48,
+                        444,
+                        478
+                    ]
+                },
+                {
+                    "label": "person",
+                    "confidence": 0.25081464648246765,
+                    "box": [
+                        21,
+                        51,
+                        635,
+                        479
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 38.29319405555725,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": -177.99746686817312,
+            "pitch": 94.08561677997488,
+            "roll": -38.06864320168417
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.3570687770843506,
+                    "box": [
+                        117,
+                        50,
+                        449,
+                        478
+                    ]
+                },
+                {
+                    "label": "person",
+                    "confidence": 0.2519717514514923,
+                    "box": [
+                        48,
+                        51,
+                        633,
+                        478
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 38.54436135292053,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": -178.01136214352593,
+            "pitch": 93.0664855011259,
+            "roll": -37.874983651098205
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.37261834740638733,
+                    "box": [
+                        118,
+                        52,
+                        441,
+                        475
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 38.865700483322144,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": -178.40885972880542,
+            "pitch": 92.06381972845696,
+            "roll": -37.62623363866979
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.378924697637558,
+                    "box": [
+                        3,
+                        51,
+                        459,
+                        476
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 39.15096879005432,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": -177.9833761253769,
+            "pitch": 93.09405805891711,
+            "roll": -38.01438916557802
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.32120510935783386,
+                    "box": [
+                        2,
+                        52,
+                        483,
+                        478
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 39.408196210861206,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": -178.39773865372902,
+            "pitch": 93.54476645559488,
+            "roll": -38.31613589196588
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "dog",
+                    "confidence": 0.29293590784072876,
+                    "box": [
+                        110,
+                        53,
+                        438,
+                        475
+                    ]
+                },
+                {
+                    "label": "person",
+                    "confidence": 0.2780308425426483,
+                    "box": [
+                        78,
+                        52,
+                        440,
+                        477
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 39.7048020362854,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": -178.01136214352593,
+            "pitch": 93.64118525790136,
+            "roll": -37.375807495548166
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.2610904574394226,
+                    "box": [
+                        151,
+                        52,
+                        442,
+                        475
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 40.00280213356018,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": -178.4198275272,
+            "pitch": 93.54476645559488,
+            "roll": -37.929655179842406
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "dog",
+                    "confidence": 0.3177497386932373,
+                    "box": [
+                        61,
+                        51,
+                        446,
+                        476
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 40.255056619644165,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": -178.3864610671188,
+            "pitch": 94.55376797915864,
+            "roll": -38.51188488348946
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": []
+        }
+    },
+    {
+        "timestamp": 40.50792908668518,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": -178.02506598911802,
+            "pitch": 94.12229781178364,
+            "roll": -37.43467893156771
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.3083113431930542,
+                    "box": [
+                        2,
+                        48,
+                        457,
+                        478
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 40.8321807384491,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": -178.43064519525103,
+            "pitch": 94.08561677997488,
+            "roll": -37.49265333305034
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.33654507994651794,
+                    "box": [
+                        40,
+                        52,
+                        450,
+                        478
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 41.092477798461914,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": -178.01136214352593,
+            "pitch": 94.63546342690265,
+            "roll": -37.62623363866979
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.25729116797447205,
+                    "box": [
+                        133,
+                        53,
+                        442,
+                        475
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 41.351943016052246,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": -178.01136214352593,
+            "pitch": 94.55376797915864,
+            "roll": -38.122065021047874
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.40010973811149597,
+                    "box": [
+                        2,
+                        50,
+                        442,
+                        478
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 41.60956430435181,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": -178.4198275272,
+            "pitch": 95.14788482413631,
+            "roll": -37.43467893156771
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.5704914331436157,
+                    "box": [
+                        7,
+                        50,
+                        440,
+                        478
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 41.8977952003479,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": -177.99746686817312,
+            "pitch": 93.57633437499736,
+            "roll": -38.06864320168417
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.4906672239303589,
+                    "box": [
+                        23,
+                        52,
+                        451,
+                        478
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 42.15382695198059,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": -178.80651057601798,
+            "pitch": 92.55615007857828,
+            "roll": -37.874983651098205
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": []
+        }
+    },
+    {
+        "timestamp": 42.50773096084595,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": -178.01136214352593,
+            "pitch": 93.57633437499736,
+            "roll": -37.874983651098205
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.44034460186958313,
+                    "box": [
+                        3,
+                        52,
+                        459,
+                        477
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 42.83866214752197,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": -179.20427644726072,
+            "pitch": 93.0664855011259,
+            "roll": -37.874983651098205
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.3932066261768341,
+                    "box": [
+                        86,
+                        53,
+                        441,
+                        478
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 43.08638286590576,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": -178.4198275272,
+            "pitch": 93.54476645559488,
+            "roll": -37.929655179842406
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.25720611214637756,
+                    "box": [
+                        3,
+                        51,
+                        479,
+                        478
+                    ]
+                },
+                {
+                    "label": "person",
+                    "confidence": 0.25036677718162537,
+                    "box": [
+                        113,
+                        50,
+                        441,
+                        476
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 43.392369985580444,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": -178.80651057601798,
+            "pitch": 94.08561677997488,
+            "roll": -37.874983651098205
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.2839438319206238,
+                    "box": [
+                        3,
+                        52,
+                        440,
+                        477
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 43.683627128601074,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": -178.40885972880542,
+            "pitch": 93.54476645559488,
+            "roll": -38.122065021047874
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.4898291230201721,
+                    "box": [
+                        2,
+                        53,
+                        449,
+                        478
+                    ]
+                },
+                {
+                    "label": "person",
+                    "confidence": 0.4547577202320099,
+                    "box": [
+                        24,
+                        47,
+                        634,
+                        478
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 44.04702711105347,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": -178.39773865372902,
+            "pitch": 93.03939956892692,
+            "roll": -38.31613589196588
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": []
+        }
+    },
+    {
+        "timestamp": 44.40392780303955,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": -178.01136214352593,
+            "pitch": 93.0664855011259,
+            "roll": -37.874983651098205
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.33416450023651123,
+                    "box": [
+                        34,
+                        53,
+                        635,
+                        479
+                    ]
+                },
+                {
+                    "label": "person",
+                    "confidence": 0.29976731538772583,
+                    "box": [
+                        10,
+                        54,
+                        450,
+                        478
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 44.665677547454834,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": -177.99746686817312,
+            "pitch": 93.03939956892692,
+            "roll": -38.31613589196588
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.41121551394462585,
+                    "box": [
+                        3,
+                        52,
+                        512,
+                        478
+                    ]
+                },
+                {
+                    "label": "person",
+                    "confidence": 0.30787551403045654,
+                    "box": [
+                        96,
+                        54,
+                        438,
+                        476
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 44.98891615867615,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": -178.40885972880542,
+            "pitch": 92.57914750028341,
+            "roll": -37.62623363866979
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": []
+        }
+    },
+    {
+        "timestamp": 45.247010469436646,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": -179.2097634975708,
+            "pitch": 93.03939956892692,
+            "roll": -37.929655179842406
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": []
+        }
+    },
+    {
+        "timestamp": 45.54292821884155,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 178.8147391813776,
+            "pitch": 88.97696981133217,
+            "roll": -37.68299276767522
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.34332332015037537,
+                    "box": [
+                        36,
+                        54,
+                        435,
+                        476
+                    ]
+                },
+                {
+                    "label": "person",
+                    "confidence": 0.31459277868270874,
+                    "box": [
+                        19,
+                        57,
+                        635,
+                        479
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 45.83617830276489,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 176.8849352400945,
+            "pitch": 88.45184230102204,
+            "roll": -37.05652818940959
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": []
+        }
+    },
+    {
+        "timestamp": 46.13080883026123,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 175.16958004171005,
+            "pitch": 85.87770218821636,
+            "roll": -38.01438916557802
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.3146921694278717,
+                    "box": [
+                        13,
+                        55,
+                        495,
+                        479
+                    ]
+                },
+                {
+                    "label": "person",
+                    "confidence": 0.2967919111251831,
+                    "box": [
+                        78,
+                        59,
+                        415,
+                        475
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 46.42768716812134,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 173.8408369708569,
+            "pitch": 85.36453657309735,
+            "roll": -38.609504685353016
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "dog",
+                    "confidence": 0.32238906621932983,
+                    "box": [
+                        118,
+                        63,
+                        412,
+                        464
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 46.75556468963623,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 173.1731376615263,
+            "pitch": 84.8521151758637,
+            "roll": -38.01438916557802
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.47277045249938965,
+                    "box": [
+                        0,
+                        52,
+                        613,
+                        479
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 47.08184576034546,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 173.96999119171855,
+            "pitch": 84.8055710922652,
+            "roll": -37.763077974032
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.33259305357933044,
+                    "box": [
+                        24,
+                        52,
+                        633,
+                        479
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 47.4087975025177,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 172.32552048310606,
+            "pitch": 83.8298249049704,
+            "roll": -38.21102542556121
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "dog",
+                    "confidence": 0.2839299142360687,
+                    "box": [
+                        98,
+                        64,
+                        420,
+                        478
+                    ]
+                },
+                {
+                    "label": "person",
+                    "confidence": 0.2704555094242096,
+                    "box": [
+                        105,
+                        63,
+                        422,
+                        477
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 47.76490807533264,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 172.72499504211075,
+            "pitch": 84.89783474764181,
+            "roll": -38.46103791703861
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.28020450472831726,
+                    "box": [
+                        20,
+                        58,
+                        635,
+                        479
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 48.096604347229004,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 172.67359333983046,
+            "pitch": 83.8298249049704,
+            "roll": -38.40939123185112
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Sad"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.3830467760562897,
+                    "box": [
+                        32,
+                        65,
+                        470,
+                        479
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 48.42410373687744,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 173.07655108518946,
+            "pitch": 84.70991879462873,
+            "roll": -37.64762064010765
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": []
+        }
+    },
+    {
+        "timestamp": 48.76812386512756,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 173.5260440313277,
+            "pitch": 84.75818005302044,
+            "roll": -37.705803691459145
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.28478533029556274,
+                    "box": [
+                        29,
+                        58,
+                        633,
+                        479
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 49.097928285598755,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 173.5260440313277,
+            "pitch": 84.8521151758637,
+            "roll": -38.21102542556121
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "dog",
+                    "confidence": 0.35342371463775635,
+                    "box": [
+                        109,
+                        63,
+                        409,
+                        473
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 49.394004821777344,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 173.92754359279232,
+            "pitch": 85.27986306895644,
+            "roll": -37.705803691459145
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "dog",
+                    "confidence": 0.43825283646583557,
+                    "box": [
+                        105,
+                        63,
+                        415,
+                        471
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 49.69142413139343,
+        "eye_tracking": {
+            "direction": "center",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 174.98014635798046,
+            "pitch": 87.46644111160542,
+            "roll": -37.362223053976365
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Happy"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "dog",
+                    "confidence": 0.5285738706588745,
+                    "box": [
+                        3,
+                        55,
+                        421,
+                        478
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 50.014819383621216,
+        "eye_tracking": {
+            "direction": "up",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 171.76902489880968,
+            "pitch": 84.28940686250037,
+            "roll": -32.167052585775856
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "cat",
+                    "confidence": 0.5667794942855835,
+                    "box": [
+                        53,
+                        63,
+                        407,
+                        477
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 50.26303029060364,
+        "eye_tracking": {
+            "direction": "left",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 168.6900675259798,
+            "pitch": 80.2724214485984,
+            "roll": -34.11447294534126
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": []
+        }
+    },
+    {
+        "timestamp": 50.51128578186035,
+        "eye_tracking": {
+            "direction": "left",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 165.87451084176857,
+            "pitch": 80.28674897505972,
+            "roll": -36.31958157492871
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Sad"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.3982538878917694,
+                    "box": [
+                        2,
+                        77,
+                        379,
+                        477
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": 50.77437877655029,
+        "eye_tracking": {
+            "direction": "left",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 164.05460409907712,
+            "pitch": 78.11134196037202,
+            "roll": -37.79394299861673
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Neutral"
+        },
+        "detections": {
+            "yolo": []
+        }
+    },
+    {
+        "timestamp": 51.08814263343811,
+        "eye_tracking": {
+            "direction": "left",
+            "blink_detected": false
+        },
+        "head_tracking": {
+            "yaw": 164.51583028608434,
+            "pitch": 77.7352262721076,
+            "roll": -37.848172338355575
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Sad"
+        },
+        "detections": {
+            "yolo": []
+        }
+    },
+    {
+        "timestamp": 51.43249201774597,
+        "eye_tracking": {
+            "direction": "left",
+            "blink_detected": true
+        },
+        "head_tracking": {
+            "yaw": 164.6498635075756,
+            "pitch": 78.69006752597979,
+            "roll": -36.92976782208192
+        },
+        "body_tracking": {
+            "movement": "No Movement",
+            "position_history": null
+        },
+        "emotion": {
+            "detected_emotion": "Sad"
+        },
+        "detections": {
+            "yolo": [
+                {
+                    "label": "person",
+                    "confidence": 0.31906136870384216,
+                    "box": [
+                        53,
+                        77,
+                        383,
+                        477
+                    ]
+                }
+            ]
+        }
+    }
+]
