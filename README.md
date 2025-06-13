@@ -6,9 +6,9 @@ An AI-powered virtual interview proctoring system that analyzes user behavior in
 
 ## 👨‍💻 Project By
 
-- **Prinka Chugh** (023-22-0182)  
-- **Ubedullah Shaikh** (023-22-0081)  
-- **Syed Umer** (023-22-0196)
+- **Prinka Chugh**
+- **Ubedullah Shaikh** 
+- **Syed Umer**
 
 ---
 
