@@ -31,10 +31,11 @@ def train_cheating_detection_model(csv_file_path):
 
     return report, model_filename
 
-csv_file_path = "data/datasets/advanced_features.csv"
-report, model_filename = train_cheating_detection_model(csv_file_path)
-print("Model Evaluation Report:\n", report)
-print("Model saved as:", model_filename)
+if __name__ == "__main__":
+    csv_file_path = "data/datasets/advanced_features.csv"
+    report, model_filename = train_cheating_detection_model(csv_file_path)
+    print("Model Evaluation Report:\n", report)
+    print("Model saved as:", model_filename)
 
 
 def make_prediction(input_data):

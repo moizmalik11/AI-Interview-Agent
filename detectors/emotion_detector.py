@@ -5,7 +5,7 @@ from tensorflow.keras.models import load_model
 EMOTION_LABELS = ['Angry', 'Disgust', 'Fear', 'Happy', 'Sad', 'Surprise', 'Neutral']
 
 class EmotionDetector:
-    def __init__(self, model_path ='data/models/data/models/fer2013_mini_XCEPTION.102-0.66.hdf5'):
+    def __init__(self, model_path='data/models/fer2013_mini_XCEPTION.102-0.66.hdf5'):
         try:
             self.model = load_model(model_path, compile=False)
         except Exception as e:

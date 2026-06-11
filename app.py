@@ -22,6 +22,8 @@ if __name__ == "__main__":
     root.geometry("500x300")
     root.configure(bg="#eaf6f6")
     root.resizable(False, False)
+    root.attributes('-topmost', True)
+    root.after(1000, lambda: root.attributes('-topmost', False))
 
     # Create a central "card" frame
     card = tk.Frame(root, bg="#ffffff", bd=2, relief=tk.RIDGE)
